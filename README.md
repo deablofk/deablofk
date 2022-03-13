@@ -2,7 +2,7 @@
 
 <img align="right"  height="150" style="border-radius:50px;" src="https://avatars.githubusercontent.com/u/51531895?v=4">
 <div> 
-  <a  href="https://discord.gg/ilha" target="_blank">
+  <a  href="https://discordapp.com/users/385568964375347201/" target="_blank">
     <img alt="Most used server" width="26px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/discord.svg" target="_blank">
   </a>
   <a href="https://twitter.com/deablofk">
