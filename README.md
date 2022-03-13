@@ -13,7 +13,7 @@
   </a>
 </div>
 
-Hi, i'm Gabriel, a very passionate programmer located on Brasil, i study by myself and want do be an example of good programmer some day.
+Hi, i'm Gabriel, a very passionate programmer located on Brasil, i study by myself and want to be an example of good programmer some day.
 
 - 🔭 I’m currently working on discord bots and web apps.
 - 🌱 I’m currently learning how to embed lua in java.
