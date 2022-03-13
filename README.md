@@ -1,7 +1,7 @@
 ### Hi there <img width="22px" src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif">
 
 <img align="right"  height="150" style="border-radius:50px;" src="https://avatars.githubusercontent.com/u/51531895?v=4">
-<div align="center"> 
+<div> 
   <a  href="https://discord.gg/ilha" target="_blank">
     <img alt="Most used server" width="26px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/discord.svg" target="_blank">
   </a>
