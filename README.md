@@ -1,17 +1,6 @@
 ### Hi there <img width="22px" src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif">
 
 <img align="right"  height="150" style="border-radius:50px;" src="https://avatars.githubusercontent.com/u/51531895?v=4">
-<div> 
-  <a  href="https://discordapp.com/users/385568964375347201/" target="_blank">
-    <img alt="Most used server" width="26px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/discord.svg" target="_blank">
-  </a>
-  <a href="https://twitter.com/deablofk">
-    <img alt="My Twitter" width="26px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
-  </a>
-  <a href="https://open.spotify.com/user/22i7yh56zdrvqigf4ojzawfja">
-    <img alt="My Spotify" alt="Abhishek's Spotify" width="26px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/spotify.svg" />
-  </a>
-</div>
 
 Hi, i'm Gabriel, a very passionate programmer located on Brasil, i study by myself and want to be an example of good programmer some day.
 
