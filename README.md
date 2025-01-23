@@ -1,51 +1,59 @@
-## Hi there <img width="22px" src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif">
+## Hi there! <img width="22px" src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif">
 
-Hi, i'm Gabriel, a very passionate programmer located on Brasil, i study by myself and want to be an example of good
-programmer some day.
+Hi, I'm Gabriel, a passionate programmer based in Brazil. I'm a self-taught developer and aspire to set an example as a skilled programmer.
+
+---
 
 ### About
 
-Hobbyist programmer since 2015, turned professional in 2021 as a freelance web developer. Passionate about the Java and
-Linux ecosystem.
+Hobbyist programmer since 2015, turned professional in 2021 as a freelance web developer. Passionate about the Java and Linux ecosystem, I love to develop innovative solutions or simpler alternatives to existing ones. My last work experience involved **Java, Spring Boot, MongoDB, and Thymeleaf**, and I have several Work-In-Progress personal projects below.
+
+---
 
 ### WIP Projects
 
-- **[Jasonify](https://github.com/deablofk/Jasonify):** Library for serializing and deserializing json at speed of
-  light, using Java Poet to generate code and improve runtime performance.
-- **[Bakashi-CLI](https://github.com/deablofk/bakashi-cli):** Tool for scraping and displaying anime in terminal,
-  made with Java and FZF (Also supports Native-Image)
-- **[debian-automated](https://github.com/deablofk/debian-automated):** Collection of Debian-Pressed and Ansible
-  Playbook for automating my entire debian installation.
-- **[deablo-nvim](https://github.com/deablofk/deablo-nvim):** My neovim configuration with good support for java
-  development.
-- **[mydotfiles](https://github.com/deablofk/mydotfiles):** My entire dotfiles collection for whatever linux
-  distribution I am using.
+- **[Jasonify](https://github.com/deablofk/Jasonify):** Library for serializing and deserializing JSON at the speed of light, using [Java Poet](https://github.com/palantir/javapoet) to generate code and improve runtime performance. *(~10x faster than Jackson!)*
+- **[Dissonance-Websocket](https://github.com/deablofk/Dissonance-Websocket):** Simple WebSocket Client implementation in pure Java, implementing [RFC-6455](https://datatracker.ietf.org/doc/html/rfc6455) partially.
+- **[Bakashi-CLI](https://github.com/deablofk/bakashi-cli):** Tool for scraping and displaying anime in the terminal, made with [JSoup](https://jsoup.org/), [FZF](https://github.com/junegunn/fzf), [MPV](https://mpv.io/), and [YT-DLP](https://github.com/yt-dlp/yt-dlp). *(Supports terminal images via [ueberzugpp](https://github.com/jstkdng/ueberzugpp).)*
+- **[debian-automated](https://github.com/deablofk/debian-automated):** Collection of Debian Preseed files and Ansible Playbooks for automating my entire Debian installation.
+- **[deablo-nvim](https://github.com/deablofk/deablo-nvim):** My [Neovim](https://neovim.io/) configuration with robust support for Java development.
+- **[mydotfiles](https://github.com/deablofk/mydotfiles):** A collection of my dotfiles for various Linux distributions.
+
+---
 
 ### Contact
 
+Feel free to reach out or explore my work:
+
 <a href="https://www.linkedin.com/in/gabriel-souza-a5451b234/">
-  <img height="48" src="https://raw.githubusercontent.com/gauravghongde/social-icons/refs/heads/master/SVG/Color/LinkedIN.svg"  alt="linkedin">
+  <img height="48" src="https://raw.githubusercontent.com/gauravghongde/social-icons/refs/heads/master/SVG/Color/LinkedIN.svg"  alt="My Linkedin Profile">
 </a>
-<a href="https://discord.gg/h3p3s8Stq5" style="fill: blue">
-  <svg viewBox="0 0 256 199"  height="48" xmlns="http://www.w3.org/2000/svg" preserveAspectRatio="xMidYMid"><path d="M216.856 16.597A208.502 208.502 0 0 0 164.042 0c-2.275 4.113-4.933 9.645-6.766 14.046-19.692-2.961-39.203-2.961-58.533 0-1.832-4.4-4.55-9.933-6.846-14.046a207.809 207.809 0 0 0-52.855 16.638C5.618 67.147-3.443 116.4 1.087 164.956c22.169 16.555 43.653 26.612 64.775 33.193A161.094 161.094 0 0 0 79.735 175.3a136.413 136.413 0 0 1-21.846-10.632 108.636 108.636 0 0 0 5.356-4.237c42.122 19.702 87.89 19.702 129.51 0a131.66 131.66 0 0 0 5.355 4.237 136.07 136.07 0 0 1-21.886 10.653c4.006 8.02 8.638 15.67 13.873 22.848 21.142-6.58 42.646-16.637 64.815-33.213 5.316-56.288-9.08-105.09-38.056-148.36ZM85.474 135.095c-12.645 0-23.015-11.805-23.015-26.18s10.149-26.2 23.015-26.2c12.867 0 23.236 11.804 23.015 26.2.02 14.375-10.148 26.18-23.015 26.18Zm85.051 0c-12.645 0-23.014-11.805-23.014-26.18s10.148-26.2 23.014-26.2c12.867 0 23.236 11.804 23.015 26.2 0 14.375-10.148 26.18-23.015 26.18Z" fill="#5865F2"/></svg>
+<a href="https://discord.gg/h3p3s8Stq5">
+  <img height="48" src="https://raw.githubusercontent.com/tandpfun/skill-icons/refs/heads/main/icons/Discord.svg" alt="Discord Server"/>
 </a>
+<a href="https://cwby.dev">
+  <img height="48" src="https://img.icons8.com/?size=100&id=VJz2Ob51dvZJ&format=png&color=000000" alt="My Personal Website"/>
+</a>
+
+---
 
 ### Metrics
 
-<div>
+<div align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=deablofk&theme=dark&show_icons=true" alt=""/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=deablofk&layout=compact&langs_count=8&theme=dark" alt=""/>
 </div>
-<div>
-  <img height="42" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/debian/debian-original-wordmark.svg" alt="">
-  <img height="42" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ansible/ansible-original-wordmark.svg" alt="">
-  <img height="42" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jenkins/jenkins-original.svg" alt="">
-  <img height="42" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="">
-  <img height="42" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original-wordmark.svg" alt="">
-  <img height="42" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original-wordmark.svg">
-  <img height="42" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg">
-  <img height="42" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original.svg">
-  <img height="42" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg">
-  <img height="42" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="">
-  <img height="42" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/blazor/blazor-original.svg" alt="">
+
+<div align="center">
+  <img height="42" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/debian/debian-original-wordmark.svg" alt="Debian">
+  <img height="42" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ansible/ansible-original-wordmark.svg" alt="Ansible">
+  <img height="42" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jenkins/jenkins-original.svg" alt="Jenkins">
+  <img height="42" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="Docker">
+  <img height="42" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original-wordmark.svg" alt="Java">
+  <img height="42" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original-wordmark.svg" alt="Spring">
+  <img height="42" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" alt="MongoDB">
+  <img height="42" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original.svg" alt="Redis">
+  <img height="42" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" alt="PostgreSQL">
+  <img height="42" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="C#">
+  <img height="42" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/blazor/blazor-original.svg" alt="Blazor">
 </div>
