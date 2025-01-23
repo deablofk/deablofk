@@ -25,13 +25,13 @@ Hobbyist programmer since 2015, turned professional in 2021 as a freelance web d
 
 Feel free to reach out or explore my work:
 
-<a href="https://www.linkedin.com/in/gabriel-souza-a783372ba/">
+<a href="https://www.linkedin.com/in/gabriel-souza-a783372ba/" style="text-decoration: none">
   <img height="48" src="https://raw.githubusercontent.com/gauravghongde/social-icons/refs/heads/master/SVG/Color/LinkedIN.svg"  alt="My Linkedin Profile">
 </a>
-<a href="https://discord.gg/h3p3s8Stq5">
+<a href="https://discord.gg/h3p3s8Stq5" style="text-decoration: none">
   <img height="48" src="https://raw.githubusercontent.com/tandpfun/skill-icons/refs/heads/main/icons/Discord.svg" alt="Discord Server"/>
 </a>
-<a href="https://cwby.dev">
+<a href="https://cwby.dev" style="text-decoration: none">
   <img height="48" src="https://img.icons8.com/?size=100&id=VJz2Ob51dvZJ&format=png&color=000000" alt="My Personal Website"/>
 </a>
 
