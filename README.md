@@ -25,7 +25,7 @@ Hobbyist programmer since 2015, turned professional in 2021 as a freelance web d
 
 Feel free to reach out or explore my work:
 
-<a href="https://www.linkedin.com/in/gabriel-souza-a5451b234/">
+<a href="https://www.linkedin.com/in/gabriel-souza-a783372ba/">
   <img height="48" src="https://raw.githubusercontent.com/gauravghongde/social-icons/refs/heads/master/SVG/Color/LinkedIN.svg"  alt="My Linkedin Profile">
 </a>
 <a href="https://discord.gg/h3p3s8Stq5">
