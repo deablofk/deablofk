@@ -12,6 +12,7 @@ Hobbyist programmer since 2015, turned professional in 2021 as a freelance web d
 
 ### WIP Projects
 
+- **[Ded](https://github.com/deablofk/ded):** Very WIP text editor written in java with [LWJGL](https://www.lwjgl.org/) and [Skija](https://github.com/HumbleUI/Skija/).
 - **[Jasonify](https://github.com/deablofk/Jasonify):** Library for serializing and deserializing JSON at the speed of light, using [Java Poet](https://github.com/palantir/javapoet) to generate code and improve runtime performance. *(~10x faster than Jackson!)*
 - **[Dissonance-Websocket](https://github.com/deablofk/Dissonance-Websocket):** Simple WebSocket Client implementation in pure Java, implementing [RFC-6455](https://datatracker.ietf.org/doc/html/rfc6455) partially.
 - **[Bakashi-CLI](https://github.com/deablofk/bakashi-cli):** Tool for scraping and displaying anime in the terminal, made with [JSoup](https://jsoup.org/), [FZF](https://github.com/junegunn/fzf), [MPV](https://mpv.io/), and [YT-DLP](https://github.com/yt-dlp/yt-dlp). *(Supports terminal images via [ueberzugpp](https://github.com/jstkdng/ueberzugpp).)*
