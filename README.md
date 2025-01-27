@@ -1,6 +1,6 @@
 ## Hi there! <img width="22px" src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif">
 
-Hi, I'm Gabriel, a passionate programmer based in Brazil. I'm a self-taught developer and aspire to set an example as a skilled programmer.
+Hi, I'm Souza, a passionate programmer based in Brazil. I'm a self-taught developer and aspire to set an example as a skilled programmer.
 
 ---
 
